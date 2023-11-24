@@ -1,5 +1,7 @@
 # Manchester Tech Events Collection 
-An open-source collection of Manchester tech meetups, conferences and communities created by Parul Singh - [Linktree](https://linktr.ee/theadhdtechrecruiter?utm_source=linktree_profile_share&ltsid=c84deea3-0d13-4d62-a138-05800b4803c5). 
+An open-source collection of Manchester tech meetups, conferences and communities created by Parul Singh - [Linktree](https://linktr.ee/theadhdtechrecruiter?utm_source=linktree_profile_share&ltsid=c84deea3-0d13-4d62-a138-05800b4803c5).
+
+If you'd like to add your events/conferences etc please create a pull request or fill in the form and I will merge/add to the list - [Form here](https://tally.so/r/w7NoGZ).
 
 ## IRL Meetup Groups 
 
